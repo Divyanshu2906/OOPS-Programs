@@ -6,4 +6,3 @@
 **Section:** C  
 **Subject:** OOPS in C++  
 **Course Code:** CCE2120
-**College:** Manipal University Jaipur 
